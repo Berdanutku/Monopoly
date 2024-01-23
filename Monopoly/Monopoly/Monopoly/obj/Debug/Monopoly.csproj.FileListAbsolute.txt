@@ -1,0 +1,10 @@
+C:\Users\berda\source\repos\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\berda\source\repos\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\berda\source\repos\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\berda\source\repos\Monopoly\Monopoly\bin\Debug\Newtonsoft.Json.dll
+C:\Users\berda\source\repos\Monopoly\Monopoly\bin\Debug\Newtonsoft.Json.xml
+C:\Users\berda\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.AssemblyReference.cache
+C:\Users\berda\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\berda\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CopyComplete
+C:\Users\berda\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\berda\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
